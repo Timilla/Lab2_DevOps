@@ -1,7 +1,7 @@
 # Lab2_DevOps
 DSTI DevOps Lab2
 
-# Author
-FName: Anwar Timilla
-Organisation: DSTI_Student
-Year:2022
+# FName: Anwar Timilla
+# Year:2022
+# Author information
+# Organization: DSTI_Student
